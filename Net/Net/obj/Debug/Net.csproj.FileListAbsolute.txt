@@ -1,0 +1,13 @@
+C:\Users\PureSurface\Documents\Program\Net\Net\bin\Debug\Net.exe.config
+C:\Users\PureSurface\Documents\Program\Net\Net\bin\Debug\Net.exe
+C:\Users\PureSurface\Documents\Program\Net\Net\bin\Debug\Net.pdb
+C:\Users\PureSurface\Documents\Program\Net\Net\obj\Debug\Net.csprojAssemblyReference.cache
+C:\Users\PureSurface\Documents\Program\Net\Net\obj\Debug\Net.csproj.CoreCompileInputs.cache
+C:\Users\PureSurface\Documents\Program\Net\Net\obj\Debug\Net.exe
+C:\Users\PureSurface\Documents\Program\Net\Net\obj\Debug\Net.pdb
+C:\Users\PureSurface\Documents\Program\Net\Net\bin\Debug\MySql.Data.dll
+C:\Users\PureSurface\Documents\Program\Net\Net\bin\Debug\Google.Protobuf.dll
+C:\Users\PureSurface\Documents\Program\Net\Net\bin\Debug\Renci.SshNet.dll
+C:\Users\PureSurface\Documents\Program\Net\Net\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\PureSurface\Documents\Program\Net\Net\bin\Debug\MySql.Data.xml
+C:\Users\PureSurface\Documents\Program\Net\Net\obj\Debug\Net.csproj.CopyComplete
